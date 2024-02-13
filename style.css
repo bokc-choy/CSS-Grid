@@ -1,0 +1,13 @@
+.container{
+    display: inline-grid;
+    grid-template: 40px 40px 40px 40px / 40px 40px;
+}
+
+.header{
+
+}
+
+.sidebar{
+
+}
+
